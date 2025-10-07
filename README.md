@@ -124,5 +124,9 @@ ORDER BY
 
 
 ## Link do Projeto no Boards
+```
+	https://dev.azure.com/QuantumLeapOficial/CP5_Cloud
+```
 
 ## Print do Backlog (com heranças)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eb44bb6b-a077-4eb7-a6da-430557d825d2" />
